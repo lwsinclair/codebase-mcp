@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dedeveloper23-codebase-mcp-badge.png)](https://mseep.ai/app/dedeveloper23-codebase-mcp)
+
 # Codebase MCP
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server implementation that provides tools to retrieve and analyze entire codebases using [RepoMix](https://repomix.com/).
